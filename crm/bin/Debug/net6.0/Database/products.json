@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 2,
+    "Name": "XotLanch",
+    "Price": 3500,
+    "Count": 5000,
+    "Description": "15 gradusdan balanda joyda saqlang"
+  },
+  {
+    "Id": 1,
+    "Name": "lepyo'shka",
+    "Price": 45000,
+    "Count": 500,
+    "Description": "Yangi va mazzali"
+  },
+  {
+    "Id": 5,
+    "Name": "Kalbasa",
+    "Price": 45000,
+    "Count": 12345,
+    "Description": "Saqlash mudati 3 oy"
+  },
+  {
+    "Id": 8,
+    "Name": "Kalbasa",
+    "Price": 180000,
+    "Count": 8000,
+    "Description": "Fresh Andalus kalbasa"
+  }
+]

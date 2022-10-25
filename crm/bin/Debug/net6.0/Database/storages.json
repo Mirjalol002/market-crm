@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 2,
+    "ProductId": 3,
+    "SellPrice": 12345.0,
+    "Count": 500
+  },
+  {
+    "Id": 4,
+    "ProductId": 5,
+    "SellPrice": 2500.0,
+    "Count": 123
+  },
+  {
+    "Id": 1,
+    "ProductId": 1,
+    "SellPrice": 15200.0,
+    "Count": 450
+  }
+]

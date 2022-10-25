@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 3,
+    "ClientName": "Mirjalol Sheraliyev",
+    "ProductName": "Kalbasa",
+    "ProductCount": 4,
+    "EmployeeName": "qwer",
+    "TotalSumm": 180000,
+    "DateTime": "2022-10-14T18:17:48.7510957+05:00"
+  },
+  {
+    "Id": 2,
+    "ClientName": "Samid Dastanbayev",
+    "ProductName": "XotLanch",
+    "ProductCount": 100,
+    "EmployeeName": "Kamron",
+    "TotalSumm": 350000,
+    "DateTime": "2022-10-14T18:21:12.5863547+05:00"
+  },
+  {
+    "Id": 5,
+    "ClientName": "Mirjalol Sheraliyev",
+    "ProductName": "Kalbasa",
+    "ProductCount": 120,
+    "EmployeeName": "Abbos Ummatjonov",
+    "TotalSumm": 5400000,
+    "DateTime": "2022-10-16T15:18:35.3892146+05:00"
+  },
+  {
+    "Id": 12,
+    "ClientName": "Alin",
+    "ProductName": "Kalbasa",
+    "ProductCount": 20,
+    "EmployeeName": "Mirjalol Sheraliyev",
+    "TotalSumm": 900000,
+    "DateTime": "2022-10-17T15:51:06.149502+05:00"
+  },
+  {
+    "Id": 45,
+    "ClientName": "bhhu",
+    "ProductName": "Kalbasa",
+    "ProductCount": 12,
+    "EmployeeName": "asdfgh",
+    "TotalSumm": 540000,
+    "DateTime": "2022-10-17T16:58:46.8083689+05:00"
+  }
+]

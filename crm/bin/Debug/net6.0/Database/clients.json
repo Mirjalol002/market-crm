@@ -1,0 +1,51 @@
+[
+  {
+    "Id": 2,
+    "FullName": "Mirjalol Sheraliyev",
+    "PhoneNumber": "+998909006872",
+    "Address": "Toshkent viloyati Bekabod tumani Xoss MFY taraqiyot 37- uy",
+    "Gender": 0
+  },
+  {
+    "Id": 3,
+    "FullName": "Samid Dastanbayev",
+    "PhoneNumber": "+99890o987654",
+    "Address": "chirchiq",
+    "Gender": 0
+  },
+  {
+    "Id": 1,
+    "FullName": "Ali Valiyev",
+    "PhoneNumber": "+998999778463",
+    "Address": "Toshkent viloyati",
+    "Gender": 0
+  },
+  {
+    "Id": 3,
+    "FullName": "Sanjarbek Berdiqulov",
+    "PhoneNumber": "+998900074272",
+    "Address": "Xoss shaxarchadan",
+    "Gender": 0
+  },
+  {
+    "Id": 6,
+    "FullName": "Mirabbos",
+    "PhoneNumber": "+99890429898",
+    "Address": "qayerdir",
+    "Gender": 0
+  },
+  {
+    "Id": 6,
+    "FullName": "Akaml Shermatov",
+    "PhoneNumber": "+9989********",
+    "Address": "Shayxontoxur",
+    "Gender": 0
+  },
+  {
+    "Id": 8,
+    "FullName": "Abbos Ummatjonov",
+    "PhoneNumber": "+998909349199",
+    "Address": "Xos MFY Gulzor 18",
+    "Gender": 0
+  }
+]

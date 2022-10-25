@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Mirjalol sheraliyev",
+    "Age": 20,
+    "Address": "xoss",
+    "PhoneNumber": "+998909006872",
+    "Gender": 0,
+    "Salary": 12345,
+    "Description": "well done"
+  },
+  {
+    "Id": 2,
+    "FullName": "Asal Hoshimova",
+    "Age": 20,
+    "Address": "Bekabod",
+    "PhoneNumber": "+998999778463",
+    "Gender": 1,
+    "Salary": 1234,
+    "Description": "Nomer uniki emas"
+  },
+  {
+    "Id": 3,
+    "FullName": "Nozima Aliqulova",
+    "Age": 20,
+    "Address": "Toshkent",
+    "PhoneNumber": "+99890121****",
+    "Gender": 1,
+    "Salary": 123000,
+    "Description": "Yaxwi girl"
+  }
+]
