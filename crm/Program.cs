@@ -7,6 +7,7 @@ namespace Market
         public static async Task Main(string[] args)
         {
             await MainPage.MainPageRunAsync();
+            Console.WriteLine("Salom Dunyo");
         }
     }
 }
